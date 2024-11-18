@@ -1,2 +1,2 @@
-# my
-Tôi là Thùy
+# Thanhthuy 
+나는 Thuy
